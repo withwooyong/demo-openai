@@ -7,7 +7,7 @@
 //import reactor.core.publisher.Flux;
 //
 //@Component
-//public class OpenAiChatClient {
+//public class ChatClient {
 //
 //    @Value("${openai.api.key}")
 //    private static String openaiApiKey;
